@@ -1,7 +1,7 @@
-Hey 👋 today i share OneForAll 😞
+Hey 👋
 
-1- install modules (npm i)
+1- installé modules (npm i)
 
-2- edit config.json
+2- modifié config.json
 
-3- start index.js [node index.js] (and good utilisation😀) Have good day 😀
+3- start index.js [node index.js] (et bonne utilisation😀) Bonne journée 😀
