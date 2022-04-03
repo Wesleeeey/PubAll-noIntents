@@ -1,0 +1,11 @@
+{
+    "tokenBotDM": "TOKEN BOT CERTIF (NO INTENTS)",
+    "tokenBotFetcher": "TOKEN BOT FETCH (YES INTENTS)",
+
+    "guildId": "ID GUILD",
+    "pack": 1,
+    
+    "message": {
+      "content": "Coucou bg"
+    }
+  }
